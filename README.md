@@ -1,11 +1,5 @@
-# gitty
+# gitty **该项目目前处于前期构建中**
 
 git 可视化多平台客户端
 
-> ⚠️ **该项目目前仍在开发中**，部分功能尚在完善中。
-
 基于 Tauri + React + TypeScript 构建
-
-## 推荐 IDE 配置
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
